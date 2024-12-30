@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](in/shanmukh-vysyaraju)
 
 <h1 align="center">Hi 👋, I'm Shanmukh Vysyaraju</h1>
 <h3 align="center">Passionate learner and aspiring innovator with skills in Java, web development. Dedicated to driving growth through technology, collaboration, and creative problem-solving.</h3>
